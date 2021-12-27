@@ -1,9 +1,5 @@
 ## Hi there 👋, I'm Mayank
 
-- 🔭 I’m currently working with a Pune, India based company
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on any cool project
-- ⚡ Fun fact: I'm a day-dreamer
 
 ### Spotify Playing 🎧
 
@@ -31,17 +27,4 @@
 <br />
 <hr />
 
-### ⚡ GitHub Stats
 
-<br />
-
-<img alt="code-knayam's GitHub Stats" src="https://github-readme-stats-code-knayam.vercel.app/api?username=mayank-tavisca&show_icons=true&hide_border=true" />
-
-<br />
-<br />
-
-### ⚡ Top Langs
-
-<br />
-
-<img alt="code-knayam's GitHub Stats" src="https://github-readme-stats-code-knayam.vercel.app/api/top-langs?username=mayank-tavisca&langs_count=8&show_icons=true&hide_border=true" />
